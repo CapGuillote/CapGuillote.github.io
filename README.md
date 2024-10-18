@@ -2,7 +2,7 @@
 
 Este es el repositorio del sitio web "Informes | Asamblea Regional", diseñado para la Asamblea Regional 2023 en San Juan, con el tema "Tengan Paciencia". El sitio web proporciona informes y recursos para el evento. A continuación, encontrarás información sobre la estructura del proyecto y cómo funciona.
 
-Puedes visitar el sitio haciendo clic aquí: [Asamblea Regional](https://guillosgit.github.io/AsambleaRegional/index.html)
+Puedes visitar el sitio haciendo clic aquí: [Asamblea Regional]
 
 
 ## Contenido del Repositorio
